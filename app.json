@@ -11,17 +11,16 @@
     },
     "APP_ID": {
       "description": "A unique identifier for your app.",
-      "value": "myAppId"
+      "value": "4rjGsrxf0RF6RXeWpbyVUS3FMFwBYTJV"
     },
     "MASTER_KEY": {
       "description": "A key that overrides all permissions. Keep this secret.",
-      "value": "myMasterKey"
+      "value": "BqYNmmG5cgCEJfBkYa7XAQitN5NHzKKx"
     },
     "SERVER_URL": {
       "description": "URL to connect to your Heroku instance (update with your app's name + PARSE_MOUNT)",
-      "value": "http://yourappname.herokuapp.com/parse"
+      "value": "http://florafertichem.herokuapp.com/parse"
     }
   },
   "image": "heroku/nodejs",
-  "addons": ["mongolab"]
 }
